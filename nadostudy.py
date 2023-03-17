@@ -745,6 +745,7 @@ for i in range(1,51) : # 1~50이라는 수(승객)
 print("총 탑승 승객 : {0}분". format(cnt))
 
 
+
 # 함수 -어떤 박스, 어떤 역활을 하는 박스 역활을 하는 함수이다. def - 함수
 
 # def open_account(): 
